@@ -1,10 +1,10 @@
-# Resize Image
+# Speak
 
 🔊 A simple application that reads everything that is typed inside your text area.
 
 ![](web-preview.png)
 
-<p align="left">
+<p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
      
    <img alt="Stars" src="https://img.shields.io/github/stars/devgabrieldejesus/speak?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
@@ -19,6 +19,9 @@
     <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
   </a>
 </p>
+
+## 🕹 Test here:
+https://devgabrieldejesus.github.io/speak
 
 ## 🛠 Getting started
 
