@@ -3,23 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" type="text/css" />
     <title>Speak</title>
   </head>
   <body>
-    <textarea id="text"></textarea>
-    <label for="speed">Speed</label>
-    <input
-      type="number"
-      name="spee"
-      id="speed"
-      min=".5"
-      max="3"
-      step=".5"
-      value="1"
-    />
-    <button id="play-button">Play</button>
-    <button id="pause-button">Pause</button>
-    <button id="stop-button">Stop</button>
+    <main>
+      <div class="container">
+        <div class="content">
+          <textarea id="text"></textarea>
+        </div>
+        <div class="buttons">
+          <label for="speed">Velocidade</label>
+          <input
+            type="number"
+            name="spee"
+            id="speed"
+            min=".5"
+            max="3"
+            step=".5"
+            value="1"
+          />
+          <button id="play-button">Ler</button>
+          <button id="pause-button">Pausar</button>
+          <button id="stop-button">Parar</button>
+        </div>
+      </div>
+    </main>
     <script src="script.js" defer></script>
   </body>
 </html>
