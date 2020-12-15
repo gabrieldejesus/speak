@@ -2,7 +2,7 @@
 
 🔊 A simple application that reads everything that is typed inside your text area.
 
-![](images/web-preview.png)
+![](images/web-preview.gif)
 
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
