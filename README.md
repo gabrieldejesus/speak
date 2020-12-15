@@ -2,7 +2,7 @@
 
 🔊 A simple application that reads everything that is typed inside your text area.
 
-![](web-preview.png)
+![](images/web-preview.png)
 
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
@@ -21,6 +21,7 @@
 </p>
 
 ## 🕹 Test here:
+
 https://devgabrieldejesus.github.io/speak
 
 ## 🛠 Getting started
