@@ -29,8 +29,11 @@ function playText(text) {
     return speechSynthesis.resume();
   }
   if (speechSynthesis.speaking) return;
+
+  const lang = 'pt-BR';
+
   utterance.text = text;
-  utterance.lang = 'pt-BR'
+  utterance.lang = lang;
   utterance.rate = speedInput.value || 1;
   textInput.disabled = true;
   speechSynthesis.speak(utterance);
