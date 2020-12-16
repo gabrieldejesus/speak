@@ -30,6 +30,7 @@ function playText(text) {
   }
   if (speechSynthesis.speaking) return;
   utterance.text = text;
+  utterance.lang = 'pt-BR'
   utterance.rate = speedInput.value || 1;
   textInput.disabled = true;
   speechSynthesis.speak(utterance);
